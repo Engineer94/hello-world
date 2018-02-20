@@ -5,4 +5,5 @@ Hi Everyone,
 I am a Mechanical Engineer trying to fit into a electronic and computerized world.  I want to learn but feel so overwhelmed sometimes.  One step at a time and I can do this!
 Engineer94
 
-Practiceing some branch Readme edidts to make sure I got it.
+Practicing some branch Readme edits to make sure I got it.
+Practice makes perfect.
